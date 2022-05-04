@@ -17,4 +17,4 @@ yarn test
 http://localhost:3000/
 ```
 
-*Note:* _I have added a `ThoughtProcess.md` file to the root of this project where i explained how i approched the test_
+*Note:* _I have added a `ThoughtProcess.md` file to the root of this project where I explain a little how I approached the test_
